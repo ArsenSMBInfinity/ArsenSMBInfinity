@@ -1,3 +1,4 @@
+<img src="mariobanner.png" width="100%" alt="Mario banner">
 # 🍄 Sup everyone I'm Arseniy Volkov 
 
 *17-year-old level designer, born in a "booming" city, and raised in hell... (just a bit of irony, you know) 😉*
