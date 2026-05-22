@@ -11,8 +11,10 @@ Right now, I'm fully focused on creating custom episodes for the fan-made **Supe
 
 Before this, I built stuff in **Mario Worker** and messed around with several other level editors. Since I'm only 17, I'm still very much in the learning phase, but I'm loving every bit of it.
 
-- 📚 **I’m currently learning:** A lil bit of everything! Exploring level, game logic, and custom graphic textures.
-- 🤑 **Collector Core:** I'm into numismatics and bonistics (basically, I collect rare coins and banknotes around the world, yea even the old ones).
+<img src="coin.png" width="50" align="right" alt="Coin">
+
+   - 📚 **I’m currently learning:** A lil bit of everything! Exploring level, game logic, and custom graphic textures.
+   - 🤑 **Collector Core:** I'm into numismatics and bonistics (basically, I collect rare coins and banknotes around the world, yea even the old ones).
 - 🔮 **The Anti-Scam Mystic:** I’m a former fortuneteller raid leader (shoutout to some shit channel so-called *Bomjplace*). Ironically, I read Tarot cards myself—mostly for guidance or a 50/50 shot at predictions—while simultaneously calling out fake online seers and scams. 
 
 ---
@@ -28,6 +30,8 @@ Briefly, this journey gives me hands-on experience in:
 ---
 
 ### 🛠️ My Toolbox
+
+<img src="mushroom.png" width="50" align="left" alt="Mushroom">
 
 I work with classic level editors that are, honestly, pretty limited. Aside from using *IbisPaint* for some custom tile work, **everything is built straight inside the editor's constraints.** Turning limitations into features is my favorite challenge!
 
