@@ -15,7 +15,7 @@ Before this, I built stuff in **Mario Worker** and messed around with several ot
 
    - 📚 **I’m currently learning:** A lil bit of everything! Exploring level, game logic, and custom graphic textures.
    - 🤑 **Collector Core:** I'm into numismatics and bonistics (basically, I collect rare coins and banknotes around the world, yea even the old ones).
-- 🔮 **The Anti-Scam Mystic:** I’m a former fortuneteller raid leader (shoutout to some shit channel so-called *Bomjplace*). Ironically, I read Tarot cards myself—mostly for guidance or a 50/50 shot at predictions—while simultaneously calling out fake online seers and scams. 
+- 🔮 **The Anti-Scam Mystic:** I’m a former fortuneteller raid leader (shoutout to some shit channel so-called *Bomjplace*). Ironically, I read Tarot cards myself—mostly for guidance or a *50/50* shot at predictions—while simultaneously calling out fake online seers and scams. 
 
 ---
 
